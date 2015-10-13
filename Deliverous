@@ -1,0 +1,6 @@
+ghost:
+    image: ghost
+    ports:
+    - ip: demo.deliverous.com
+      container_port: 80
+      host_port: 80
